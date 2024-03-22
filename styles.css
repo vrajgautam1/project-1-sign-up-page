@@ -1,0 +1,58 @@
+body{
+    background-image: url(images/wallpaperflare.com_wallpaper.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    width: 100%;
+    font-family: Montserrat;
+}
+
+
+header{
+    padding-top:3rem;
+    color: #fff;
+    margin-bottom: 6rem;
+    text-align: center;
+}
+
+.h1-header{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 4rem;
+}
+
+h4{
+    color: #1A1A40;
+    font-size: 1.5
+}
+
+#login{
+    width: 25rem;
+}
+
+
+.form-control{
+    width: 20rem;  
+    background: transparent;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom: 3px solid #fff;
+    border-bottom-style: groove;
+}
+
+.form-control:focus{
+    outline: none;
+}
+
+.form-text{
+    color:#fff;
+    font-size:1.2rem;
+}
+#footer{
+    text-align: center;
+    color:#fff;
+    margin-top: 5rem;
+} 
